@@ -45,7 +45,7 @@ Only one table used for this project:
 | :-------- | :------- | :-------- | :-------------|
 | `username` | `varchar(50)` | `primary key` | `stores username (unique)`|
 | `email` | `varchar(60)` | | `stores email address of user`|
-| `password` | `varchar(20)` | | `stores user pass`|
+| `password` | `varchar(20)` | | `stores user password`|
 | `highscore` | `int(11)` |  | `stores highscore`|
 | `mintime` | `int(11)` |  | `stores minimum time needed for highscore`|
 | `minmoves` | `int(11)` |  | `stores minimum moves needed for highscore`|
