@@ -78,18 +78,3 @@ Java, Javascript, HTML, CSS
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/sai-raghava-79a904183)
 
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-the-painting/README.md at master · SaiRaghavaIthireddy/flip it · GitHub 
